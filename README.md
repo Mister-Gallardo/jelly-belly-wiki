@@ -1,2 +1,2 @@
-#### Десктопное приложение по Api https://jelly-belly-wiki.netlify.app
+#### Десктопное приложение на api https://jelly-belly-wiki.netlify.app
 #### `npm run dev` - для запуска клиента
